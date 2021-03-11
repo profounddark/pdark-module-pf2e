@@ -1,0 +1,24 @@
+{
+    "name": "prodark-compendium",
+    "title": "The Book of Profound Darkness",
+    "description": "A collection of custom compendia for the Pathfinder 2E system.",
+    "author": "profounddark",
+    "version": "0.1.0",
+    "minimumCoreVersion": "0.7.9",
+    "packs": [
+        {
+            "name": "effects",
+            "label": "Effects",
+            "path": "packs/effects.db",
+            "entity": "Item",
+            "system": "pf2e"
+        },
+        {
+            "name": "equipment",
+            "label": "Equipment",
+            "path": "packs/equipment.db",
+            "entity": "Item",
+            "system": "pf2e"
+        }
+    ]
+}
