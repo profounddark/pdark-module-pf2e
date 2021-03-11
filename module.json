@@ -5,6 +5,7 @@
     "author": "profounddark",
     "version": "0.1.0",
     "minimumCoreVersion": "0.7.9",
+    "compatibleCoreVersion": "0.7.9",
     "packs": [
         {
             "name": "effects",
@@ -20,5 +21,8 @@
             "entity": "Item",
             "system": "pf2e"
         }
-    ]
+    ],
+    "download": "https://github.com/profounddark/pdark-module-pf2e/archive/v.0.1.0.zip",
+    "manifest": "https://raw.githubusercontent.com/profounddark/pdark-module-pf2e/main/module.json",
+    "url": "https://github.com/profounddark/pdark-module-pf2e"
 }
