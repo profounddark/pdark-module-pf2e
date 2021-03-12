@@ -1,5 +1,9 @@
 Patch Notes:
 ---
+Version 0.2.1
+---
+Content Changes:
+* Added a Macro for toggling the shield Effect.
 
 Version 0.2.0
 ---
