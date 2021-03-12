@@ -1,6 +1,11 @@
 Patch Notes:
 ---
 
+Version 0.2.0
+---
+Content Changes:
+* Added an Effect for having a shield raised. This version applies a flat +2 circumstance bonus to AC.
+
 Version 0.1.1
 ---
 Bug Fixes:
