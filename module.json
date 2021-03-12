@@ -3,7 +3,7 @@
     "title": "The Book of Profound Darkness",
     "description": "A collection of custom compendia for the Pathfinder 2E system.",
     "author": "profounddark",
-    "version": "0.1.1",
+    "version": "0.2.0",
     "minimumCoreVersion": "0.7.9",
     "compatibleCoreVersion": "0.7.9",
     "packs": [
