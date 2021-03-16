@@ -1,5 +1,9 @@
 Patch Notes:
 ---
+Version 0.2.2
+---
+* Removed the Effect and Macro for raising a shield.
+
 Version 0.2.1
 ---
 Content Changes:
